@@ -4,7 +4,7 @@ This program creates a classifier neural network model. The program currently ou
 
 This model has 3 layers with 53, 24, and 6 nodes, respectively. 
 
-To run this model locally, create a virtual environment and execute the file using the command python csi_model6.py’.
+To run this model locally, create a virtual environment and execute the file using the command 'python csi_model6.py’.
 
 This message prints every time the program executes:
 
