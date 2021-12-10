@@ -1,10 +1,10 @@
 # senior-design-ml
 
-This program creates a classifier neural network model. The program currently outputs two arrays. The first array describes the predicted classes. The second array is two dimensional and describes the prediction confidences for each class. 
+This program creates a classifier neural network model. The program outputs the predicted values and confidence of prediction in a table format. The model is run on magnitude and phase of collected CSI data. 
 
-This model has 3 layers with 53, 24, and 6 nodes, respectively. 
+The most up-to-date code is located in: csi_model7.py
 
-To run this model locally, create a virtual environment and execute the file using the command 'python csi_model6.py’.
+To run this model locally, create a virtual environment and execute the file using the command 'python csi_model7.py’.
 
 This message prints every time the program executes:
 
